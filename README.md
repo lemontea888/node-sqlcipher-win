@@ -5,11 +5,13 @@ The [node-sqlite3](https://github.com/mapbox/node-sqlite3) module with [SQLCiphe
 
 ## Explanation
 
-The [node-sqlite3 building for sqlcipher](https://github.com/mapbox/node-sqlite3#building-for-sqlcipher) is invalid on Microsoft Windows.
+Description of the [node-sqlite3 building for sqlcipher](https://github.com/mapbox/node-sqlite3#building-for-sqlcipher) ,
+
+I can't understand how to setting on Windows.
 
 Thanks to [journeyapps](https://github.com/journeyapps) for his [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher),
 
-I modify [node-sqlite3](https://github.com/mapbox/node-sqlite3) and reference [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher) for build with sqlcipher on Microsoft Windows.
+I modify [node-sqlite3](https://github.com/mapbox/node-sqlite3) and reference [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher) for build with sqlcipher on Windows.
 
 The ``` node-sqlcipher-win ``` module is result.
 
