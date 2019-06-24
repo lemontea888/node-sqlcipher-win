@@ -128,7 +128,7 @@ db.close();
 
 **Note:** the  [Sequelize](http://docs.sequelizejs.com) must be [installed](https://github.com/sequelize/sequelize#installation) before use 
 
-and database file 'SQLite3.DB' msut be created use the ` /usage-example/usage-sqlite.js ` file.
+and database file 'SQLite3.DB' must be created use the ` /usage-example/usage-sqlite.js ` file.
 
 ```
 
