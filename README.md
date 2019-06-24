@@ -126,9 +126,7 @@ db.close();
 
 ``` /usage-example/usage-sqlcipher.js ```
 
-**Note:** the  [Sequelize](http://docs.sequelizejs.com) must be [installed](https://github.com/sequelize/sequelize#installation) before use 
-
-and database file 'SQLite3.DB' must be created use the ` /usage-example/usage-sqlite.js ` file.
+**Note:** the  [Sequelize](http://docs.sequelizejs.com) must be [installed](https://github.com/sequelize/sequelize#installation) before use and database file 'SQLite3.DB' must be created use the ` /usage-example/usage-sqlite.js ` file.
 
 ```
 
