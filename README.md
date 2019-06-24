@@ -51,7 +51,7 @@ Windows 10 x64 -
 
  **Note:**  You can use ` npm -g install windows-build-tools ` to download "Python 2.7.x" and "Build tools for visual studio 2017" then Install them manually , lastly , [install "VC++ 2015.3 v140 toolset(x86,x64)" component Under Desktop development with C++ workloads on "build tools for visual studio 2017"](https://devblogs.microsoft.com/cppblog/visual-studio-build-tools-now-include-the-vs2017-and-vs2015-msvc-toolsets) and install optional 'Windows 8.1 SDK and UCRT SDK' .
  
-(4) Start ``` VS 2017 x64 Native Tools Command ``` execute ``` npm ``` command.
+(4) Start ``` VS 2017 x64 Native Tools Command ``` or ``` VS 2017 x86 Native Tools Command ``` for execute ``` npm ``` command.
 
 **Note:** Example for the X64 on ``` Start Menu ``` -> ``` All Programs ``` -> ``` Visual Studio 2017 ``` -> ``` Visual Studio Tools ``` -> ``` VC ``` -> ``` VS 2017 x64 Native Tools Command ``` .
 
