@@ -19,11 +19,9 @@ Modify from [node-sqlite3](https://github.com/mapbox/node-sqlite3) version 4.0.9
 
 [OpenSSL](https://www.openssl.org/) version [1.1.1c](https://www.openssl.org/source/openssl-1.1.1c.tar.gz) compiled static libraries,
 
-[SQLCipher](https://www.zetetic.net/sqlcipher/) version [4.20](https://github.com/sqlcipher/sqlcipher) related files,
+[SQLCipher](https://www.zetetic.net/sqlcipher/) version [4.20](https://github.com/sqlcipher/sqlcipher) source files by nmake modify,
 
-Microsoft Windows libraries files ``` Crypt32.Lib ``` & ``` WS2_32.Lib ```. 
-
-is bundled.
+this is bundled.
 
 
 
@@ -63,7 +61,15 @@ The command can install package and shows detailed information on build-from-sou
 
 ### electron
 
-Your command needs these additional flags
+must be set windows "environment variable" for link to Windows libraries ``` Crypt32.Lib ``` & ``` WS2_32.Lib ```. 
+
+example for x64 : 
+
+LIBPATH  ``` C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x64 ```
+
+INCLUDE  ``` C:\Program Files (x86)\Windows Kits\8.1\Include ```
+
+and your command needs these additional flags
 
 (be sure to replace the target version with the current Electron version you are working with):
 
