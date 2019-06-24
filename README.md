@@ -1,5 +1,5 @@
 
-The [node-sqlite3](https://github.com/mapbox/node-sqlite3) module with [SQLCipher](https://www.zetetic.net/sqlcipher/) on Microsoft Windows platfrom.
+The [node-sqlite3](https://github.com/mapbox/node-sqlite3) module with [SQLCipher](https://www.zetetic.net/sqlcipher/) focus on Microsoft Windows platfrom.
 
 
 
