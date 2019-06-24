@@ -39,7 +39,7 @@ Windows 10 x64 -
 
 electron tested :
 
-Windows 7 x64 - electron 5.0.5 , electron 4.2.5 , electron 3.1.11
+Windows 7 x64 - electron 3.1.11 , electron 4.2.5 , electron 5.0.5 
 
 Windows 10 x86 - 
 
