@@ -61,13 +61,13 @@ The command can install package and shows detailed information on build-from-sou
 
 ### electron
 
-must be set windows "environment variable" for link to Windows libraries ``` Crypt32.Lib ``` & ``` WS2_32.Lib ```. 
+must be set windows "environment variable" for link to Windows libraries ``` Crypt32.Lib ``` & ``` WS2_32.Lib ``` ,
 
-example for x64 : 
+example for arch x64 : 
 
-LIBPATH  ``` C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x64 ```
+set variable ` LIBPATH ` value ` C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x64 `
 
-INCLUDE  ``` C:\Program Files (x86)\Windows Kits\8.1\Include ```
+set variable ` INCLUDE ` value ` C:\Program Files (x86)\Windows Kits\8.1\Include `
 
 and your command needs these additional flags
 
