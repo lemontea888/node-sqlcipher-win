@@ -37,7 +37,7 @@
         'defines': [
           'WIN32'
         ],
-        'conditions':[      # set libraries path on Windows arch
+        'conditions':[      # set libraries path for windows target_arch
           ['target_arch == "ia32"',{
             'variables': {
               'LIB_root%': 'LIB-Win32',
@@ -114,7 +114,7 @@
             '<(SHARED_INTERMEDIATE_DIR)/sqlcipher-amalgamation-<@(sqlite_version)/',
             '<(SHARED_INTERMEDIATE_DIR)/sqlcipher-amalgamation-<@(sqlite_version)/include'
           ],
-          'conditions':[        # Openssl opensslconf.h on Windows ia32  is difference than x64.
+          'conditions':[        # Openssl opensslconf.h on Windows ia32 is difference than x64.
             ['target_arch == "ia32"',{
               "copies": [{
                 "files": ["<(SHARED_INTERMEDIATE_DIR)/sqlcipher-amalgamation-<@(sqlite_version)/include/win32/opensslconf.h"],
