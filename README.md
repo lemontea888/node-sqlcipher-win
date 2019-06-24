@@ -17,11 +17,11 @@ The ``` node-sqlcipher-win ``` module is result.
 
 Modify from [node-sqlite3](https://github.com/mapbox/node-sqlite3) version 4.0.9,
 
-[OpenSSL](https://www.openssl.org/) version [1.1.1c](https://www.openssl.org/source/openssl-1.1.1c.tar.gz) compiled static libraries,
+[OpenSSL](https://www.openssl.org/) version [1.1.1c](https://www.openssl.org/source/openssl-1.1.1c.tar.gz) compiled static libraries and
 
-[SQLCipher](https://www.zetetic.net/sqlcipher/) version [4.20](https://github.com/sqlcipher/sqlcipher) source files by nmake modify,
+[SQLCipher](https://www.zetetic.net/sqlcipher/) version [4.20](https://github.com/sqlcipher/sqlcipher) source files by nmake modify
 
-this is bundled.
+is bundled.
 
 
 
