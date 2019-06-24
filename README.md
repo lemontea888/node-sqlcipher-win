@@ -157,7 +157,7 @@ sequelize.query("SELECT info FROM lorem").then(function(results){
 
 ## How to modify the module
 
-The [SQLCipher.md](https://github.com/lemontea888/node-sqlite3-sqlcipher/blob/master/SQLCipher.md) document is from [journeyapps](https://github.com/journeyapps)'s [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher).
+The [SQLCipher.md](https://github.com/journeyapps/node-sqlcipher/blob/master/SQLCipher.md) document is from [journeyapps](https://github.com/journeyapps)'s [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher).
 
 This explains in detail how to modify the module for Microsoft Windows.
 
