@@ -49,7 +49,7 @@ Windows 10 x64 -
 
 (3) "Build tools for visual studio 2017"
 
- **Note:**  You can use ` npm -g install windows-build-tools ` to download "Python 2.7.x" and "Build tools for visual studio 2017" then Install them manually , lastly , [install "VC++ 2015.3 v140 toolset(x86,x64)" component Under Desktop development with C++ workloads on "build tools for visual studio 2017"](https://devblogs.microsoft.com/cppblog/visual-studio-build-tools-now-include-the-vs2017-and-vs2015-msvc-toolsets).
+ **Note:**  You can use ` npm -g install windows-build-tools ` to download "Python 2.7.x" and "Build tools for visual studio 2017" then Install them manually , lastly , [install "VC++ 2015.3 v140 toolset(x86,x64)" component Under Desktop development with C++ workloads on "build tools for visual studio 2017"](https://devblogs.microsoft.com/cppblog/visual-studio-build-tools-now-include-the-vs2017-and-vs2015-msvc-toolsets) and Optional [Windows 8.1 SDK and UCRT SDK] .
 
 ### node
 
@@ -63,7 +63,7 @@ The command can install package and shows detailed information on build-from-sou
 
 must be set windows "environment variable" for link to Windows libraries ``` Crypt32.Lib ``` & ``` WS2_32.Lib ``` ,
 
-example for arch x64 : 
+example on Windows 8.1 SDK kits for x64 : 
 
 set variable ` LIBPATH ` value ` C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x64 `
 
