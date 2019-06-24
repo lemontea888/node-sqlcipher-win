@@ -29,7 +29,7 @@ is bundled.
 
 The ``` node-sqlcipher-win ``` module should works on Node.js v4.x, v6.x, v8.x, v10.x, v11.x and v12.x .
 
-Tested : 
+node tested : 
 
 Windows 7 x64 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 .
 
@@ -37,6 +37,13 @@ Windows 10 x86 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 .
 
 Windows 10 x64 -
 
+electron tested :
+
+Windows 7 x64 - electron 5.0.5 , electron 4.2.5 , electron 3.1.11
+
+Windows 10 x86 - 
+
+Windows 10 x64 -
 
 
 ## installing
