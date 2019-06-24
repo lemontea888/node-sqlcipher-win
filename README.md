@@ -53,7 +53,7 @@ Windows 10 x64 -
  
 (4) Start ``` VS 2017 x64 Native Tools Command ``` execute ``` npm ``` command.
 
-**Note:** For the X64 on ``` Start Menu ``` -> ``` All Programs ``` -> ``` Visual Studio 2017 ``` -> ``` Visual Studio Tools ``` -> ``` VC ``` -> ``` VS 2017 x64 Native Tools Command ``` .
+**Note:** Example for the X64 on ``` Start Menu ``` -> ``` All Programs ``` -> ``` Visual Studio 2017 ``` -> ``` Visual Studio Tools ``` -> ``` VC ``` -> ``` VS 2017 x64 Native Tools Command ``` .
 
 ### node
 
