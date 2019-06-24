@@ -1,15 +1,17 @@
 
-The [node-sqlite3](https://github.com/mapbox/node-sqlite3) module with [SQLCipher](https://www.zetetic.net/sqlcipher/) focus on Microsoft Windows platfrom.
+The [node-sqlite3](https://github.com/mapbox/node-sqlite3) module with [SQLCipher](https://www.zetetic.net/sqlcipher/) focus on Windows platfrom.
 
 
 
 ## Explanation
 
-The [node-sqlite3 building for sqlcipher](https://github.com/mapbox/node-sqlite3#building-for-sqlcipher) is invalid on Microsoft Windows.
+Description of the [node-sqlite3 building for sqlcipher](https://github.com/mapbox/node-sqlite3#building-for-sqlcipher) ,
+
+I can't understand how to setting on Windows.
 
 Thanks to [journeyapps](https://github.com/journeyapps) for his [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher),
 
-I modify [node-sqlite3](https://github.com/mapbox/node-sqlite3) and reference [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher) for build with sqlcipher on Microsoft Windows.
+I modify [node-sqlite3](https://github.com/mapbox/node-sqlite3) and reference [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher) for build with sqlcipher on Windows.
 
 The ``` node-sqlcipher-win ``` module is result.
 
@@ -170,7 +172,7 @@ sequelize.query("SELECT info FROM lorem").then(function(results){
 
 The [SQLCipher.md](https://github.com/journeyapps/node-sqlcipher/blob/master/SQLCipher.md) document is from [journeyapps](https://github.com/journeyapps)'s [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher).
 
-This explains in detail how to modify the module for Microsoft Windows.
+This explains in detail how to modify the module for Windows.
 
 
 
