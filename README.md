@@ -161,9 +161,6 @@ The [SQLCipher.md](https://github.com/lemontea888/node-sqlite3-sqlcipher/blob/ma
 
 This explains in detail how to modify the module for Microsoft Windows.
 
-I only update the new version of the OpenSSL and the SQLCipher module,
-
-and modified a bit for new OpenSSL's DLL file name is different on Win64 and Win32.
 
 
 
