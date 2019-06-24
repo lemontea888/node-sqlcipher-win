@@ -54,8 +54,8 @@
             '<(SHARED_INTERMEDIATE_DIR)/sqlcipher-amalgamation-<@(sqlite_version)/<(LIB_root)'
           ],
           'libraries': [
-            '-lCrypt32.Lib',      # Link Windows library setting (electron build requirement)
-            '-lWS2_32.Lib',       # Link Windows library setting (electron build requirement)
+            '-lCrypt32.Lib',      # Link Windows library setting (electron build requirements)
+            '-lWS2_32.Lib',       # Link Windows library setting (electron build requirements)
             '-llibcrypto.lib',    # Customized openssl static library (remove /Zi disable debug)
             '-llibssl.lib'        # Customized openssl static library (remove /Zi disable debug)
           ]
