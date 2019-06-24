@@ -188,7 +188,7 @@ This explains in detail how to modify the module for Microsoft Windows.
 
 ## Acknowledgments
 
-* node-sqlite3
+### node-sqlite3
 
 Thanks to [Orlando Vazquez](https://github.com/orlandov),
 [Eric Fredricksen](https://github.com/grumdrig) and 
@@ -196,7 +196,7 @@ Thanks to [Orlando Vazquez](https://github.com/orlandov),
 
 Development of this module is sponsored by [MapBox](http://mapbox.org/).
 
-* node-sqlcipher
+### node-sqlcipher
 
 Thanks to [journeyapps](https://github.com/journeyapps) for his [node-sqlcipher](https://github.com/journeyapps/node-sqlcipher).
 
