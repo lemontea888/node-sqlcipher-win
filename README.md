@@ -47,6 +47,11 @@ Windows 10 x86 - Electron 3.1.11 , 4.2.5* , 5.0.5
 
 Windows 10 x64 -
 
+#
+
+* Electron 4.2.5  input --target=4.2.5 compile error , input --target=4.2.4 compile completed , 4.2.5 source code has error ?
+
+
 
 ## installing
 
