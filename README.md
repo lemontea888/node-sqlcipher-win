@@ -33,15 +33,15 @@ The ``` node-sqlcipher-win ``` module should works on Node.js v4.x, v6.x, v8.x, 
 
 ### Node tested : 
 
-Windows 7 x64 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 .
+Windows 7 x64 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 
 
-Windows 10 x86 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 .
+Windows 10 x86 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 
 
 Windows 10 x64 -
 
 ### Electron tested :
 
-Windows 7 x64 - Electron 3.1.11 , Electron 4.2.5 , Electron 5.0.5 
+Windows 7 x64 - Electron 3.1.11 , 4.2.5 , 5.0.5 
 
 Windows 10 x86 - 
 
