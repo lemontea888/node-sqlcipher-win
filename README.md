@@ -49,7 +49,7 @@ Windows 10 x64 -
 
 #
 
-*Electron 4.2.4 compile completed and use normal , Electron 4.2.5  input --target=4.2.5 compile error , input --target=4.2.4 compile completed and use normal , Electrn 4.2.5 source code has error ?
+*x86(ia32) Electron 4.2.4 compile completed and use normal , Electron 4.2.5  input --target=4.2.5 compile error , input --target=4.2.4 compile completed and use normal , Electrn 4.2.5 source code has error ?
 
 
 ## installing
