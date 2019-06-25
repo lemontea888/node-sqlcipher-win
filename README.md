@@ -43,7 +43,7 @@ Windows 10 x64 -
 
 Windows 7 x64 - Electron 3.1.11 , 4.2.5 , 5.0.5 
 
-Windows 10 x86 - 
+Windows 10 x86 - Electron 3.1.11 , 4.2.5* , 5.0.5
 
 Windows 10 x64 -
 
