@@ -31,7 +31,7 @@ is bundled.
 
 The ``` node-sqlcipher-win ``` module should works on Node.js v4.x, v6.x, v8.x, v10.x, v11.x and v12.x .
 
-### node tested : 
+### Node tested : 
 
 Windows 7 x64 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 .
 
@@ -39,7 +39,7 @@ Windows 10 x86 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 .
 
 Windows 10 x64 -
 
-### electron tested :
+### Electron tested :
 
 Windows 7 x64 - Electron 3.1.11 , Electron 4.2.5 , Electron 5.0.5 
 
@@ -64,7 +64,7 @@ Windows 10 x64 -
 
 **Note:** Example for the X64 on ``` Start Menu ``` -> ``` All Programs ``` -> ``` Visual Studio 2017 ``` -> ``` Visual Studio Tools ``` -> ``` VC ``` -> ``` VS 2017 x64 Native Tools Command ``` .
 
-### node
+### Node
 
 download and install the `node-sqlcipher-win` module:
 
@@ -72,7 +72,7 @@ download and install the `node-sqlcipher-win` module:
 
 The command can install package and shows detailed information on build-from-source.
 
-### electron
+### Electron
 
 Must be setting " Windows environment variable " for link Windows libraries ``` Crypt32.Lib ``` and ``` WS2_32.Lib ``` ,
 
