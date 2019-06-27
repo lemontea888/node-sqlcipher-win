@@ -35,7 +35,7 @@ Windows 7 x64 - Node.js  v8.16.0 , v10.16.0 , v12.4.0
 
 Windows 10 x86 - Node.js  v8.16.0 , v10.16.0 , v12.4.0 
 
-Windows 10 x64 -
+Windows 10 x64 - Node.js  v8.16.0 , v10.16.0 , v12.4.0
 
 ### Electron tested :
 
@@ -43,7 +43,7 @@ Windows 7 x64 - Electron 3.1.11 , 4.2.5 , 5.0.5
 
 Windows 10 x86 - Electron 3.1.11 , 4.2.5* , 5.0.5
 
-Windows 10 x64 -
+Windows 10 x64 - Electron 3.1.11 , 4.2.5 , 5.0.5
 
 #
 
